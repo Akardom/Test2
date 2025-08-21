@@ -13,5 +13,19 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Fire",
+		"unitType": "Ranged",
+		"uniqueTo": "Test Name",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 10,
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "arrow"
 	}
+	
 ]
