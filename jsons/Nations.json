@@ -64,7 +64,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniquename": "A New Spirit",
+		"uniqueName": "A New Spirit",
 		"unique":["You get a cool buff"],
 		"cities": ["Cool Cirt","Cool City"]
 	}
