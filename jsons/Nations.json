@@ -162,17 +162,17 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
 		"uniqueName": "Stagnant Stability",
 		"uniques":["[in your cities] [+100%] [Food] [in your cities] [-50%] [Science]"],
 		"cities": ["Cool Cirt","Cool City"]
 	},
 	{"name": "Qin Dynasty",
-		"leaderName": "Emperor Kangxi",
-		"adjective": ["Manchurian"],
+		"leaderName": "Qin ShiHuang Di",
+		"adjective": ["Chinese"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "1",
 		"startIntroPart2": "2",
