@@ -200,5 +200,7 @@
 		"uniqueName": "Centralization Effort",
 		"uniques":["[+20]% Production when constructing [Walls] [in all cities]"],
 		"cities": ["Cool Cirt","Cool City"]
+	},
+	{
 ]
 
