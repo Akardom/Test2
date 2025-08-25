@@ -198,7 +198,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Centralization Effort",
-		"uniques":["[+100]% [Production] when constructing [Walls] [in all cities] [+100]% when constructing [Great Wall] [in capital"],
+		"uniques":["[+100]% [Production] when constructing [Walls] [in all cities] [+100]% when constructing [Great Wall] [in capital]"],
 		"cities": ["Cool Cirt","Cool City"]
 	},
 ]
