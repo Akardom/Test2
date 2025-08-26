@@ -1,0 +1,17 @@
+[
+
+	{
+		"name": "Shu Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+    "replaces": "Road"
+    "uniqueTo": "Qin Dynasty"
+		"turnsToBuild": 2,
+		"techRequired": "The Wheel",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn when in your territory"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to 1/3 if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+	}
+]
