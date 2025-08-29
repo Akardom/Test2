@@ -129,8 +129,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [192,12,20],
+		"innerColor": [227,203,75],
 		"uniqueName": "Stagnant Stability",
 		"uniques":["[in your cities] [+100%] [Food] [in your cities] [-50%] [Science]"],
 		"cities": ["Cool Cirt","Cool City"]
