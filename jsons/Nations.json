@@ -163,7 +163,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [54,81,148],
-		"innerColor": [139,38,20],
+		"innerColor": [0,0,0],
 		"uniqueName": "Stagnant Stability",
 		"uniques":["[in your cities] [+100%] [Food] [in your cities] [-50%] [Science]"],
 		"cities": ["Cool Cirt","Cool City"]
